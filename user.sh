@@ -8,5 +8,5 @@ then
 	echo user $a is present with
 id -u $a
 else
-       echo user not found!
+       echo user not found
 fi 
