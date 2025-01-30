@@ -8,7 +8,7 @@ elif [ $a -eq 0 ]
 then 
 	echo $a is neither positive nor negative
 else
-	echo $a is negative
+	echo $a is negative ;;
 fi
 
 
